@@ -6,6 +6,8 @@ public class DemoClass {
 		
 	System.out.println("Sami");
 	System.out.println("Husna");
+	System.out.println("Helena");
+	System.out.println("Arista");
 
 	}
 
